@@ -1,0 +1,32 @@
+Arisha: (5Days)
+===============
+Create a simple Srping Boot Application:
+	a. Create REST Web Service (Maven Project) to Create/Update/Read/Delete (CRUD) Employee Details (EmpID, Emp Name, OrgName, Country) and save Employee details in PostGres DB
+	b. Build using Maven
+	c. Deploy
+	d. Test Using POSTMAN
+	e. Create Unit Test for Employe CRUD
+	f. Perform Unit Test and Build using Maven 
+
+
+Anjali:
+=======
+Use GitHub Repo: https://github.com/MrAnkitAgrawal/SampleSpringMVC.git 
+Create Spring MVC (Maven Project):
+	a. Create RestClient using RestTemplate Spring Library.
+	b. Perform CRUD on Employee Web Service
+	c. Build using Maven
+	d. Deploy
+	e. Test
+
+
+Anurudh:
+========
+1. Infa Provisioning:  Create Chef Script to provision one instance in AWS
+2. Configuration Mgmt: Configure TomcatServer on provisioned machine and test if its running
+3. Deploy sample war file in Tomcat and test
+
+Gaurav:
+========
+DevOps Pipeline on Bluemix:
+---------------------------
